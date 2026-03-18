@@ -907,7 +907,7 @@ Changes:
 - cmdline: Don't log a warning if URL has been redirected.
   Closes: SF bug #3078820
 - checking: Do not print warnings for HTTP -> HTTPS and HTTPS -> HTTP
-  redirects any more.
+  redirects anymore.
 - logging: Changed comment format in GML output to be able to load the
   graph in gephi.
 - gui: Remove timeout and thread options.
