@@ -2631,7 +2631,7 @@ Features:
     Type: feature
     Changed: linkcheck/checker/cache.py
 
-  * the given user/password authententication is now also used to
+  * the given user/password authentication is now also used to
     get robots.txt files.
     Type: feature
     Changed: linkcheck/robotparser2.py, linkcheck/checker/cache.py
