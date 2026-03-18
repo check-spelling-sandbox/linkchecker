@@ -860,7 +860,7 @@ Changes:
 - dependencies: Require and use Python 2.6.
 - cmdline: Removed deprecated options --no-anchor-caching and
   --no-proxy-for.
-- config: Remove backwards compatilibity parsing and require the
+- config: Remove backwards compatibility parsing and require the
   new multiline configuration syntax.
 - logging: Use codecs module for proper output encoding.
   Closes: SF bug #3114624
