@@ -972,7 +972,7 @@ msgstr ""
 #: en/linkchecker.1:349
 #, no-wrap
 msgid ""
-"  1) Check the adress syntax, both of the part before and after\n"
+"  1) Check the address syntax, both of the part before and after\n"
 "     the @ sign.\n"
 "  2) Look up the MX DNS records. If we found no MX record,\n"
 "     print an error.\n"
