@@ -89,7 +89,7 @@ def init (domain, directory, loc=None):
     else:
         default_language = "en"
     # Even if the default language is not supported, the encoding should
-    # be installed. Otherwise the Python installation is borked.
+    # be installed. Otherwise, the Python installation is borked.
     default_encoding = encoding
     install_language(default_language)
 

@@ -134,7 +134,7 @@ Changes:
   is a maximum redirection limit anyway.
   Closes: GH bug #444, #419
 - checking: Disallowed access by robots.txt is an info now, not
-  a warning. Otherwise it produces a lot of warnings which
+  a warning. Otherwise, it produces a lot of warnings which
   is counter-productive.
 - checking: Do not check SMTP connections for mailto: URLs anymore.
   It resulted in lots of false warnings since spam prevention
