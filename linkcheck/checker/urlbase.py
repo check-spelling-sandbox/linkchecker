@@ -837,6 +837,6 @@ class CompactUrlData (object):
     __slots__ = urlDataAttr
 
     def __init__(self, wired_url_data):
-        '''Set all attributes according to the dictionnary wired_url_data'''
+        '''Set all attributes according to the dictionary wired_url_data'''
         for attr in urlDataAttr:
             setattr(self, attr, wired_url_data[attr])
