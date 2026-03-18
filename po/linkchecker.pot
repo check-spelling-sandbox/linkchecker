@@ -258,12 +258,12 @@ msgstr ""
 
 #: ../linkcheck/plugins/sslcertcheck.py:78
 #, python-format
-msgid "Invalid SSL certficate \"notAfter\" value %r"
+msgid "Invalid SSL certificate \"notAfter\" value %r"
 msgstr ""
 
 #: ../linkcheck/plugins/sslcertcheck.py:87
 #, python-format
-msgid "SSL certficate is expired on %(expire)s."
+msgid "SSL certificate is expired on %(expire)s."
 msgstr ""
 
 #: ../linkcheck/plugins/sslcertcheck.py:92
