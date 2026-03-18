@@ -1743,7 +1743,7 @@ Features:
     Type: bugfix
     Changed: linkcheck/checker/httpurl.py
 
-  * Workaround a urllib2.py bug raising ValueError on some failed
+  * Work around a urllib2.py bug raising ValueError on some failed
     HTTP authorizations.
     Type: bugfix
     Closes: SF bug #1250555
