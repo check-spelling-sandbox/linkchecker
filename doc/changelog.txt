@@ -2367,7 +2367,7 @@ Features:
 
   * All leading directories of a given output log file are created
     automatically now. Errors creating these directories or opening
-    the log file for writing abort the checking and print a usage mesage.
+    the log file for writing abort the checking and print a usage message.
     Type: feature
     Changed: linkchecker, linkcheck/logger/__init__.py
 
