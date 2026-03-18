@@ -25,7 +25,7 @@ from .. import log, LOG_CHECK
 
 
 # IP Address regular expressions
-# Note that each IPv4 octet can be encoded in dezimal, hexadezimal and octal.
+# Note that each IPv4 octet can be encoded in decimal, hexadecimal and octal.
 _ipv4_num = r"\d{1,3}"
 _ipv4_hex = r"0*[\da-f]{1,2}"
 _ipv4_oct = r"0+[0-7]{0, 3}"
