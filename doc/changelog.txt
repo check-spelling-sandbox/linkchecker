@@ -424,7 +424,7 @@ Features:
 - cgi: Added a WSGI script to replace the CGI script.
 
 
-7.6 "Türkisch für Anfänger" (released 31.03.2012)
+7.6 "Tï¿½rkisch fï¿½r Anfï¿½nger" (released 31.03.2012)
 
 Fixes:
 - checking: Recheck extern status on HTTP redirects even if domain
@@ -907,7 +907,7 @@ Changes:
 - cmdline: Don't log a warning if URL has been redirected.
   Closes: SF bug #3078820
 - checking: Do not print warnings for HTTP -> HTTPS and HTTPS -> HTTP
-  redirects any more.
+  redirects anymore.
 - logging: Changed comment format in GML output to be able to load the
   graph in gephi.
 - gui: Remove timeout and thread options.
