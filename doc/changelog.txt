@@ -1358,7 +1358,7 @@ Features:
     Type: documentation
     Removed: doc/fr/*
 
-  * Correct misnamed colums in create.sql script: r/*string/\1/g
+  * Correct misnamed columns in create.sql script: r/*string/\1/g
     Type: bugfix
     Changed: config/create.sql
     Closes: SF #1849733
