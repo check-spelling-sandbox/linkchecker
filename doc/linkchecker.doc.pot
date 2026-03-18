@@ -1000,7 +1000,7 @@ msgstr ""
 #, no-wrap
 msgid ""
 "  1) connect to the specified host\n"
-"  2) try to login with the given user and password. The default\n"
+"  2) try to log in with the given user and password. The default\n"
 "     user is ``anonymous``, the default password is ``anonymous@``.\n"
 "  3) try to change to the given directory\n"
 "  4) list the file with the NLST command\n"
@@ -1016,7 +1016,7 @@ msgstr ""
 #: en/linkchecker.1:365
 #, no-wrap
 msgid ""
-"  We try to connect and if user/password are given, login to the\n"
+"  We try to connect and if user/password are given, log in to the\n"
 "  given telnet server.\n"
 msgstr ""
 
