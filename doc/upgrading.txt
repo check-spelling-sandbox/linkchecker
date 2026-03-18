@@ -155,7 +155,7 @@ should be written as:
     # this is a comment
     ^nntp:
 
-Note the leading spac(es) at the beginning of each line after
+Note the leading space(s) at the beginning of each line after
 ``ignore=``.
 If an indented line starts with a comment sign, it will be ignored.
 
