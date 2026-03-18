@@ -200,7 +200,7 @@ Changes:
 
 Fixes:
 - checking: Apache Coyote (the HTTP server of Tomcat) sends the wrong
-  Content-Type on HEAD requests. Automatically fallback to GET in this
+  Content-Type on HEAD requests. Automatically fall back to GET in this
   case.
   Closes: GH bug #414
 - checking: Do not use GET on POST forms.
