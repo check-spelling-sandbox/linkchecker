@@ -236,7 +236,7 @@ Fixes:
 8.3 "Mahna Mahna Killer" (released 6.1.2013)
 
 Features:
-- project: The Project moved to Github.
+- project: The Project moved to GitHub.
   Closes: GH bug #368
 
 Changes:
