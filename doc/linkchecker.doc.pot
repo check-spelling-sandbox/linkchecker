@@ -787,7 +787,7 @@ msgstr ""
 
 #. type: Plain text
 #: en/linkchecker.1:267
-msgid "Sets the domain the cookies are valid for."
+msgid "Sets the domain for which the cookies are valid."
 msgstr ""
 
 #. type: TP
@@ -798,7 +798,7 @@ msgstr ""
 
 #. type: Plain text
 #: en/linkchecker.1:270
-msgid "Gives the path the cookies are value for; default path is B</>."
+msgid "Gives the path for which the cookies are valid; default path is B</>."
 msgstr ""
 
 #. type: TP
