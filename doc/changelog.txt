@@ -3041,7 +3041,7 @@ Features:
 1.8.9
   * recompile with bison 1.875a
     Changed files: linkcheck/parser/htmlparse.[ch]
-  * remove stpcpy declaration, fixes compile error on RedHat 7.x
+  * remove stpcpy declaration, fixes compile error on Red Hat 7.x
     Changed files: linkcheck/parser/htmlsax.h
   * clarify keyboard interrupt warning to wait for active connections
     to finish
@@ -3160,7 +3160,7 @@ Features:
     Changed files: INSTALL, setup.py
   * You must now use named constants for ANSI color codes
     Changed files: linkcheckerrc, linkcheck/log/ColoredLogger.py
-  * Release RedHat 8.0 rpm packages.
+  * Release Red Hat 8.0 rpm packages.
     Changed files: setup.py, MANIFEST.in
   * remove --robots-txt from manpage, fix HTZP->HTTP typo
     Changed files: linkchecker.1
