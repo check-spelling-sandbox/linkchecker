@@ -61,7 +61,7 @@ class RobotFileParser (object):
         self.sitemap_urls = []
 
     def mtime (self):
-        """Returns the time the robots.txt file was last fetched.
+        """Returns the time that the robots.txt file was last fetched.
 
         This is useful for long-running web spiders that need to
         check for new robots.txt files periodically.
@@ -72,7 +72,7 @@ class RobotFileParser (object):
         return self.last_checked
 
     def modified (self):
-        """Set the time the robots.txt file was last fetched to the
+        """Set the time that the robots.txt file was last fetched to the
         current time."""
         self.last_checked = time.time()
 
