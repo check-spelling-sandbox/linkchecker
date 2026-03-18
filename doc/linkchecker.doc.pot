@@ -1183,7 +1183,7 @@ msgstr ""
 
 #. type: Plain text
 #: en/linkchecker.1:436
-msgid "Javascript links are not supported."
+msgid "JavaScript links are not supported."
 msgstr ""
 
 #. type: Plain text

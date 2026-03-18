@@ -61,7 +61,7 @@ Notes = _("""NOTES
    connection to the internet (e.g. with diald), it will connect when
    checking links not pointing to your local system.
    See the --ignore-url option on how to prevent this.
- o Javascript links are currently ignored.
+ o JavaScript links are currently ignored.
  o If your platform does not support threading, LinkChecker disables it
    automatically.
  o You can supply multiple user/password pairs in a configuration file.
