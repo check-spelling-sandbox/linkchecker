@@ -60,7 +60,7 @@ Fast HTML parser module written in C with the following features:
 - Speed
   The FLEX code is configured to generate a large but fast scanner.
   The parser ignores forbidden or unnecessary HTML end tags.
-  The parser converts tag and attribute names to lower case for easier
+  The parser converts tag and attribute names to lowercase for easier
   matching.
   The parser quotes all attribute values.
   Python memory management interface is used.
