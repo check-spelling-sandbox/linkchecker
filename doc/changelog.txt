@@ -2505,7 +2505,7 @@ Features:
     Type: feature
     Changed: linkcheck/__init__.py
 
-  * Removed debug print statement when issueing linkchecker --help.
+  * Removed debug print statement when issuing linkchecker --help.
     Type: bugfix
     Changed: linkchecker
 
