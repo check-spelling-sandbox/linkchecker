@@ -1074,7 +1074,7 @@ Fixes:
   Closes: SF bug #2806790
 - http: Fixed persistent connection handling: retry connecting to HTTP
   servers which close persistent connections unexpectedly.
-- bookmarks: correctly read the bookmark title from Mozilla places.sqllite
+- bookmarks: correctly read the bookmark title from Mozilla places.sqlite
 - checking: ignore the fragment part (ie. the anchor) of URIs when
   getting and caching HTTP content; follows the HTTP/1.1 specification which
   does not include fragments in the protocol. Thanks to Martin von Gagern
