@@ -84,7 +84,7 @@ Features:
 
 Changes:
 - checking: Ignored URLs are reported earlier now.
-- checking: Updated the list of unkonwn or ignored URI schemes.
+- checking: Updated the list of unknown or ignored URI schemes.
 - checking: Internal errors do not disable check threads anymore.
 - checking: Disable URL length warning for data: URLs.
 - checking: Do not warn about missing addresses on mailto links that have
@@ -1223,7 +1223,7 @@ Features:
 
   * Remove gopher: URL checking.
     Type: feature
-    Changed: linkcheck/checker/unkonwnurl.py
+    Changed: linkcheck/checker/unknownurl.py
     Removed: linkcheck/checker/gopherurl.py
 
 4.9 "Michael Clayton" (released 25.4.2008)
@@ -1317,7 +1317,7 @@ Features:
     Changed: linkcheck/linkparse.py, linkcheck/checker/urlbase.py
     Closes: SF bug #1831900
 
-  * Try to detect unkonwn URL schemes from the command line, eg. URLs
+  * Try to detect unknown URL schemes from the command line, eg. URLs
     like "rtsp://foo".
     Type: feature
     Changed: linkchecker, linkcheck/lc_cgi.py,
