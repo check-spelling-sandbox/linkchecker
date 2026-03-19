@@ -132,7 +132,7 @@ Python >= 2.5 is now required.
 
 The CGI script access control has been removed. Please use the access
 control of your webserver to restrict access to the CGI script.
-An example configuration file for the Apache weberver has been included
+An example configuration file for the Apache webserver has been included
 in the distribution.
 
 Migrating from 4.4 to 4.5
