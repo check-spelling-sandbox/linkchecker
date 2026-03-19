@@ -612,7 +612,7 @@ class UrlBase (object):
         pass
 
     def can_get_content (self):
-        """Indicate wether url get_content() can be called."""
+        """Indicate whether url get_content() can be called."""
         return self.size <= self.aggregate.config["maxfilesizedownload"]
 
     def get_content (self):
