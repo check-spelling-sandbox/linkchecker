@@ -182,7 +182,7 @@ lang_name_native = {
     'en': u'English',
     'de': u'Deutsch',
 }
-lang_transis = {
+lang_name_translated = {
     'de': {'en': u'German'},
     'en': {'de': u'Englisch'},
 }
@@ -194,7 +194,7 @@ def lang_name (lang):
 
 def lang_trans (lang, curlang):
     """Return translated full name of given language."""
-    return lang_transis[lang][curlang]
+    return lang_name_translated[lang][curlang]
 
 
 def get_encoded_writer (out=sys.stdout, encoding=None, errors='replace'):
