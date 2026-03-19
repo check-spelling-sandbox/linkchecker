@@ -186,7 +186,7 @@ server, so your checking time might increase if the server enforces
 such a delay through its robots.txt file.
 
 URLs with invalid syntax are now cached, and they get matched now by
-the --ingore-url option.
+the --ignore-url option.
 
 Migrating from 3.0 to 3.1
 -------------------------
