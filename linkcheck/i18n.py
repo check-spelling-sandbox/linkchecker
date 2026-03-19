@@ -178,7 +178,7 @@ def norm_locale (loc):
     return loc
 
 
-lang_names = {
+lang_name_native = {
     'en': u'English',
     'de': u'Deutsch',
 }
@@ -189,7 +189,7 @@ lang_transis = {
 
 def lang_name (lang):
     """Return full name of given language."""
-    return lang_names[lang]
+    return lang_name_native[lang]
 
 
 def lang_trans (lang, curlang):
