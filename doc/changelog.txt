@@ -1744,7 +1744,7 @@ Features:
     Changed: linkcheck/checker/httpurl.py
 
   * Workaround a urllib2.py bug raising ValueError on some failed
-    HTTP authorisations.
+    HTTP authorizations.
     Type: bugfix
     Closes: SF bug #1250555
     Changed: linkcheck/robotparser2.py
