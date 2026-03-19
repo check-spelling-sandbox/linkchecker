@@ -26,7 +26,7 @@ from . import LinkCheckTest
 NNTP_SERVER = "news.uni-stuttgart.de"
 # info string returned by news server
 NNTP_INFO = u"200 news.uni-stuttgart.de InterNetNews NNRP server " \
-            u"INN 2.5.2 ready (no posting)"
+            u"INN 2.7.1 ready (no posting)"
 # Most free NNTP servers are slow, so don't waist a lot of time running those.
 NNTP_TIMEOUT_SECS = 30
 
