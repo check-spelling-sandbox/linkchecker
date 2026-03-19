@@ -1594,7 +1594,7 @@ Features:
   * The default intern pattern matches both http: and https: schemes
     now.
     Type: feature
-    Changed: linckheck/checker/internpaturl.py
+    Changed: linkcheck/checker/internpaturl.py
 
   * If the robots.txt connection times out, don't bother to check
     the URL but report an error immediately. Avoids having the
