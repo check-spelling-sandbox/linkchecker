@@ -50,7 +50,7 @@ Fixes:
   Closes: GH bug #521
 - cgi: Sanitize configuration.
   Closes: GH bug #519
-- checking: Use user-supplied authentication and proxies when requestiong
+- checking: Use user-supplied authentication and proxies when requesting
   robot.txt.
 - plugins: Fix Word file check plugin.
   Closes: GH bug #530
